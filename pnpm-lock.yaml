@@ -29,7 +29,7 @@ importers:
       ui: workspace:*
       vite: ^4.0.0
     dependencies:
-      ui: link:../../packages/ui
+      ui: link:../../packages/svelte
     devDependencies:
       '@sveltejs/adapter-auto': 2.0.0_@sveltejs+kit@1.13.0
       '@sveltejs/kit': 1.13.0_svelte@3.53.1+vite@4.0.0
@@ -54,7 +54,7 @@ importers:
       ui: workspace:*
       vite: ^4.0.0
     dependencies:
-      ui: link:../../packages/ui
+      ui: link:../../packages/svelte
     devDependencies:
       '@sveltejs/adapter-auto': 2.0.0_@sveltejs+kit@1.13.0
       '@sveltejs/kit': 1.13.0_svelte@3.53.1+vite@4.0.0

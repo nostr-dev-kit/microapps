@@ -1,7 +1,8 @@
 {
-  "name": "ui",
+  "name": "@nostr-dev-kit/svelte",
   "version": "0.1.0",
-  "description": "Default styles and components for use in nostery components",
+  "description": "svelte microapps",
+  "author": "Jack Chakany <jack@chaker.net>",
   "type": "module",
   "module": "index.ts",
   "svelte": "index.ts",
